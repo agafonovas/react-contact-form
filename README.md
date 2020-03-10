@@ -29,10 +29,9 @@ npm run client
 
 ## App Info
 
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+email for testing:
+user: 'getintouchtest@gmail.com', 
+pass: 'FZv3}u3"N9_?qjEp'
 
 ### Version
 
