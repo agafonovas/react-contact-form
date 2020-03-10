@@ -20,11 +20,11 @@ npm run client
 ```
 
 ## App Info
-
+```
 email for testing:
 user: 'getintouchtest@gmail.com', 
 pass: 'FZv3}u3"N9_?qjEp'
-
+```
 ### Version
 
 1.0.0
