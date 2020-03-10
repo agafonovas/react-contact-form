@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
 import axios from 'axios';
-import FormPopup from './components/FormPopup'
 import Popup from 'reactjs-popup';
 
 
